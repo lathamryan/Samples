@@ -8,3 +8,13 @@ C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\GitHub\InvoiceTotal\InvoiceT
 C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\GitHub\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.CoreCompileInputs.cache
 C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\GitHub\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
 C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\GitHub\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\GitHub\InvoiceTotal_Ch3\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\GitHub\InvoiceTotal_Ch3\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\GitHub\InvoiceTotal_Ch3\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\GitHub\InvoiceTotal_Ch3\InvoiceTotal\obj\Debug\InvoiceTotal.csprojAssemblyReference.cache
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\GitHub\InvoiceTotal_Ch3\InvoiceTotal\obj\Debug\InvoiceTotal.frmInvoiceTotal.resources
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\GitHub\InvoiceTotal_Ch3\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\GitHub\InvoiceTotal_Ch3\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.cache
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\GitHub\InvoiceTotal_Ch3\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.CoreCompileInputs.cache
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\GitHub\InvoiceTotal_Ch3\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\Users\RyanLatham\Dropbox\UC-Denver\Academic\6020\GitHub\InvoiceTotal_Ch3\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
